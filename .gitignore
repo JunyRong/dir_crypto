@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+build_out/
+*.spec.bak
+
+# Generated standalone packages/build artifacts
+release/
+
+# Local scratch/test data
+test/
